@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Matheus Franca
 
-<!--
-**mfrancism/mfrancism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Internship in backend and automation in Python**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I build **websites** and **automation plataforms**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-mfrancism-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@teteunw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  </a>
+</p>
+
+---
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend 
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
+
+
