@@ -9,10 +9,10 @@ I build **websites** and **automation plataforms**
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/mfrancism">
     <img src="https://img.shields.io/badge/GitHub-mfrancism-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://www.instagram.com/teteunw/">
     <img src="https://img.shields.io/badge/Instagram-@teteunw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   </a>
